@@ -1,4 +1,4 @@
-- Hi, I’m Cathy and I'm currently a Junior studying Computer Science with a minor in Korean at UC Berkeley!
+- Hi, I’m Cathy and I'm currently a Senior studying Computer Science at UC Berkeley!
 - I’m primarily interested in back-end systems, computer security, and human-centered design.
 
 <!---
